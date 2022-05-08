@@ -1,0 +1,60 @@
+Serviços que os alunos podem obter da secretaria do ETEPD:
+
+    Informações sobre - carteira de meia passagem/vem livre
+    Declaração de vínculo
+    Realizar trancamento
+    Realizar cancelamento
+    Receber - carteira de meia passagem/vem livre
+    Receber - a carteira de estudante
+    Entrega do kit escolar
+    Entrega do fardamento
+    Transferência de escola
+    Acesso ao SIEPE
+    Desbloquear o SIEPE
+        
+Professores/Professoras do Subsequente:
+    
+    Desenvolvimento de Sistemas
+        Waldeck
+        Pedro
+        Fábio
+        Clovis
+        Sandra - obs.: só no 1º módulo
+
+    Multimídia
+        Bianca
+        Luciane
+        Waléria
+
+Ambientes:
+
+    Térreo
+        Banheiros - 2
+        Laboratório
+        Refeitório
+        Secretaria
+        Auditório
+        Salas de aula - 1
+
+    Mesanino
+        Banheiros - 2
+        Laboratório
+        Sala dos professores
+        Sala da coordenação
+
+    1º Andar
+        Quadra de esportes
+        Salas de aula
+        Banheiros - 2
+        
+    2º Andar
+        Salas de aula
+        Banheiros - 2
+
+ 
+Quantidade de salas usadas no subsequente: 
+    
+    6 salas para os alunos dos 1º, 2º e 3º módulos
+
+
+
