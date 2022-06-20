@@ -1,0 +1,91 @@
+body {
+    background-image: url("../Index/Ilha.jpg");
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+}
+
+.btn{
+    border-radius: 25px;
+    text-transform: uppercase;
+    font-size: 10px;
+    padding: 10px 50px;
+    cursor: pointer;
+    font-weight: bold;
+    width: 150px;
+    color: rgb(0, 217, 255);
+    background-color: rgb(59, 59, 61);
+    border: none;
+}
+.btn:hover{
+    background-color: rgb(0, 217, 255);
+    color: rgb(59, 59, 61);
+    font-weight: bolder;
+}
+
+.container{
+    height: 650px;
+    width: 500px;
+    position: absolute;
+    border-radius: 25px;
+    background-color: rgba(0, 0, 0, 0.616);
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.forget{
+    color: dodgerblue;
+    margin: 25px;
+}
+
+.formulario{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+}
+
+.formulario input{
+    height: 45px;
+    width: 100%;
+    border: none;
+    background-color: azure;
+    cursor: text;
+    display: flex;
+    flex-direction: column;
+}
+
+.icon{
+    color: dodgerblue;
+    padding: 0 5px;
+}
+
+.img{
+    /*imagem sombra que vai ser o simbolo atrás
+    backgroung-image: url();
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    z-index: -1;
+
+    */
+}
+
+.label{
+    background-color: azure;
+    display: flex;
+    align-items: center;
+    margin: 8px;
+}
+
+.main{
+    height: 900px;
+    width: 100%;
+    display: grid;
+    place-items: center;
+}

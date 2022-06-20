@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="Index.css">
+    <script src="https://kit.fontawesome.com/e2be17808a.js" crossorigin="anonymous"></script>
+    <title>Home</title>
+</head>
+<body>
+    <div class="main">
+        <div class="img">
+            Login
+        </div>
+        <div class="container">
+            <form class="formulario">
+                <img src="" alt="">
+                <label class="label">
+                    <!--
+                        Não estou conseguindo aumentar o tamanho da label e isso está me incomodando 
+                        vê se consegue Dyego - Mailonga
+                        Está faltando duas imagens que Gilmar tava colocando ontem que são as logos.
+                    -->
+                    <i class="fa-solid fa-user icon"></i>
+                    <input type="text" id ="usuario" placeholder="Usuário">
+                </label>
+                <label class="label">
+                    <i class="fa-solid fa-envelope icon"></i>
+                    <input type="email" id = "email"  placeholder="E-mail">
+                </label>
+                <label class="label">
+                    <i class="fa-solid fa-lock icon"></i>
+                    <input type="password" id="pass" placeholder="Senha">
+                </label>
+                <a class= "forget" href="#">Esqueçeu sua Senha</a>
+                <button class="btn" onclick="validacao()" >Entrar</button>
+            </form>
+        </div>
+    </div>
+    
+    <script src="../Index/Index.js"></script>
+</body>
+</html>
